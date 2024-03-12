@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493677842738",
+    "project_id": "login-test-e6def",
+    "storage_bucket": "login-test-e6def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493677842738:android:f08ad3b11910762a1ec72b",
+        "android_client_info": {
+          "package_name": "com.example.login_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCetOs-iu7B8DKLzxRdSB5jBYMVZQHGHNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
